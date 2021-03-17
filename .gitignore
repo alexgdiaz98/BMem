@@ -1,0 +1,5 @@
+.idea/
+__pycache__/
+src/
+config.json
+test.py
